@@ -2,7 +2,7 @@ package collections1;
 
 import java.util.Arrays;
 
-public class ProblemWithArray {
+public class B_ProblemWithArray {
     public static void main(String[] args) {
         String[] names = new String[20];
         Arrays.fill(names,"name ");

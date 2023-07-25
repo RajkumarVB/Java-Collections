@@ -2,7 +2,7 @@ package collections1;
 
 import java.util.ArrayList;
 import java.util.List;
-public class ListAL {
+public class C_ListAL {
     public static void main(String[] args) {
         List<String> stringsList = new ArrayList<>();
         for(int i =0; i<20; i++){
